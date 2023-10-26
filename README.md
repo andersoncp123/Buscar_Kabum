@@ -28,7 +28,7 @@ Certifique-se de ter instalado as seguintes bibliotecas antes de executar o cód
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos que gostaria de adicionar, sinta-se à vontade para criar um "Pull Request".
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos que gostaria de adicionar, sinta-se à vontade para entrar em contato comigo.
 
 ## Contato
 
